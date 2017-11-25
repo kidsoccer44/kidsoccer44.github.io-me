@@ -1,0 +1,206 @@
+img{
+border: solid;
+border-width: 2px;
+border-radius: 10px;
+box-shadow: 2px 2px 2px black;
+}
+.Name{
+color:black;
+font-family: "Trebuchet MS";
+font-size:45px;
+}
+html{
+background-color:#5998ff;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    overflow: hidden;
+    background-color: #0061ff;
+	border-radius:10px;
+}
+
+li {
+    display: inline;
+    color: white;
+    float: left;
+    border-color: black;
+	font-weight:bold;
+}
+li a{
+    color: black;
+    display: block;
+    padding: 10px 186px;
+    background-color: #0061ff;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+}
+li a:hover:not(.active){
+    background-color: #4d5768;
+}
+.active{
+background-color: #4d5768;
+}
+p{
+	text-transform:capitalize;
+	text-indent:25px;
+	font-family:"Trebuchet MS";
+	color:black;
+	font-weight: bold;
+	line-height: 2;
+	font-size:20px;
+	text-align:center;
+}
+.JS{
+	font-family:"Trebuchet MS";
+	text-transform:capitalize;
+	text-align:center;
+	font-weight:bold;
+	border-style:solid;
+	border-width:2px;
+	border-radius:10px;
+	padding:10px;
+	line-height:2;
+	float:middle;
+	background-color:#0061ff;
+	font-size:20px;
+}
+
+
+.container {
+  width: 200px;
+  background-color: white;
+  margin:auto;
+}
+
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 20px;
+  color: white;
+}
+
+.html {width: 35%; background-color: #2d7dff;}
+
+.lang1{
+	line-height:2;
+	border-style:solid;
+	border-width:2px;
+	border-radius:10px;
+	text-transform:capitalize;
+	font-weight:bold;
+	font-family:"Trebuchet MS";
+	font-size:20px;
+	text-align:center;
+	background-color:#0061ff;
+}
+.container1{
+	width:200px;
+	background-color:white;
+	margin:auto;
+}
+.skills {
+	text-align:right;
+	padding-right: 20px;
+	line-height: 20px;
+	color:white;
+}
+.lang{width: 60%; background-color: #2d7dff;}
+
+.goals{
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	text-transform:capitalize;
+	text-decoration:underline;
+	text-indent:25px;
+	font-size:35px;
+	text-align:center;
+}
+.contact{
+	border:none;
+	text-transform:capitalize;
+	font-weight:bold;
+	font-size:35px;
+	font-family:"Trebuchet MS";
+	text-decoration:underline;
+}
+.form{
+	font-family:"Trebuchet MS";
+	text-transform:capitalize;
+	font-weight:bold;
+	font-size:30px;
+	text-align:center;
+}
+.projects{
+	border:solid;
+	border-radius:10px;
+	border-width:2px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#0061ff;
+}
+.pic{
+	border-radius:none;
+}
+
+.pdescription{
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	text-transform:capitalize;
+	text-align:center;
+}
+.pr{
+	font-family:"Trebuchet MS";
+	font-size:40px;
+	text-decoration:underline;
+}
+.M{
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	text-decoration:underline;
+	font-size:25px;
+}
+.guessinggame{
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	text-decoration:underline;
+	font-size:25px;
+}
+.guess{
+	border-style:solid;
+	border-radius:10px;
+	border-width:2px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background-color:#0061ff;
+}
+.web{
+	border-style:solid;
+	border-radius:10px;
+	border-width:2px;
+	padding-bottom:10px;
+	padding-top:10px;
+	background-color:#0061ff;
+}
+.h1{
+	font-size:25px;
+	font-weight:bold;
+	text-decoration:underline;
+	font-family:"Trebuchet MS";
+}
+.languages{
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	font-size:35px;
+	text-decoration:underline;	
+}
+.carl{
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	font-size:35px;
+	text-decoration:underline;
+}
